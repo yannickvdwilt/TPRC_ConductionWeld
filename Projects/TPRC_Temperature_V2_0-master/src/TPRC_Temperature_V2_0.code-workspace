@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "TPRC_Temperature_V2_0",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"*.inc": "cpp"
+		}
+	}
+}
